@@ -1,5 +1,4 @@
-# Weather-Dashboard
-Unit 06 homework
+# WeatherDash
 
 See the deployed app here:
 https://ryanellingson.github.io/Weather-Dashboard/
